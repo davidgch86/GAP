@@ -1,0 +1,26 @@
+Prueba Programada
+
+
+*************************Estructura************************************
+DBScripts
+	Contiene los Scripts de base de datos
+
+SuperZapatosAPI
+	migration
+	Acceso Datos EF
+	WebAPI
+
+SuperZapatosSite
+	MVC project cliente de WebApi
+
+*************************Basic Authentication************************************
+user: gaptest
+password: gaptest
+
+
+Nota:Cambiar connection string
+
+TODO
+Mejores validaciones del lado del cliente
+Diseño de excepcion personalizada
+Modelos response mas genericos
